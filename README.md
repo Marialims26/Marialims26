@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AI, discovering and using its various branches but more specifically machine learning
 - 💞️ I’m looking to collaborate on some IA projects combined with web development
 - 📫 How to reach me : My mail: limamariepaule@gmail.com
-- 😄 Pronouns: Just say Marie
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Just say Marie😊
+- ⚡ Fun fact: ...😅
 
 <!---
 Marialims26/Marialims26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
